@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+    background: url(https://images.unsplash.com/photo-1556340346-5e30da977c4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80) bottom center;
     background-size: cover;
   }
   
@@ -34,8 +34,8 @@ html {
   
   .playing {
     transform: scale(1.1);
-    border-color: #ffc600;
-    box-shadow: 0 0 1rem #ffc600;
+    border-color: whitesmoke;
+    box-shadow: 0 0 1rem whitesmoke;
   }
   
   kbd {
@@ -47,5 +47,5 @@ html {
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
-    color: #ffc600;
+    color: whitesmoke;
   }
